@@ -2,30 +2,31 @@ body {
     background-color: #fff;
     font-family: 'Roboto';
     color: #212121;
+    font-weight: 400;
+}
+ul {
+    list-style: none;
+}
+.text-decor {
+    text-decoration: none;
 }
 /* Header */
 .header {
-    text-decoration: none;
     background: #FFFFFF;
 }
 
 .webstudio {
         font-family:'Raleway';
-        font-style: normal;
         font-weight: 700;
         font-size: 26px;
         line-height: 1.19;
         color: #212121;
-        text-decoration: none;
 }
 .web {
     color:#2196F3;
 }
 
 .link-li{
-    text-decoration: none;
-    font-family: 'Roboto';
-        font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 1.14;
@@ -33,9 +34,6 @@ body {
         color: #212121;
 }
 .link {
-    text-decoration: none;
-    font-family: 'Roboto';
-        font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 1.14;
@@ -52,8 +50,6 @@ body {
 }
 /* Main */
 .decision {
-    font-family: 'Roboto';
-        font-style: normal;
         font-weight: 900;
         font-size: 44px;
         line-height: 1.36;
@@ -65,8 +61,6 @@ body {
 }
 
 .btn {
-    font-family: 'Roboto';
-        font-style: normal;
         font-weight: 700;
         font-size: 16px;
         line-height: 1.88;
@@ -82,8 +76,6 @@ body {
 }
 
 .menu {
-    font-family: 'Roboto';
-        font-style: normal;
         font-weight: 700;
         font-size: 14px;
         line-height: 1.14;
@@ -92,17 +84,12 @@ body {
         color: #212121;
 }
 .submenu {
-    font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
         font-size: 14px;
         line-height: 1.71;
         letter-spacing: 0.03em;
         color: #757575;
 }
 .work {
-    font-family: 'Roboto';
-        font-style: normal;
         font-weight: 700;
         font-size: 36px;
         line-height: 1.17;
@@ -111,8 +98,6 @@ body {
         color: #212121;
 }
 .team {
-    font-family: 'Roboto';
-        font-style: normal;
         font-weight: 700;
         font-size: 36px;
         line-height: 1.17;
@@ -122,8 +107,6 @@ body {
 } 
  
 .member {
-    font-family: 'Roboto';
-        font-style: normal;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.19;
@@ -132,9 +115,6 @@ body {
         color: #212121;
 }
 .kind {
-    font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
         font-size: 16px;
         line-height: 1.19;
         text-align: center;
@@ -145,31 +125,23 @@ body {
 /* Footer */
 .webstudio-footer {
     font-family: 'Raleway';
-        font-style: normal;
         font-weight: 700;
         font-size: 26px;
         line-height: 1.19;
         color: #FFFFFF;
-        text-decoration: none;
 }
 .address {
-    font-family: 'Roboto';
         font-style: normal;
-        font-weight: 400;
         font-size: 14px;
         line-height: 1.71;
         letter-spacing: 0.03em;
         color: #FFFFFF;
 }
 .email {
-    font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
         font-size: 14px;
         line-height: 1.71;
         letter-spacing: 0.03em;
         color: rgba(255, 255, 255, 0.6);
-        text-decoration: none;
 }
 .email:hover, .email:focus {
     color: #2196F3;
@@ -181,8 +153,6 @@ footer {
 
 /* Portfolio */
 .btn-li {
-    font-family: 'Roboto';
-        font-style: normal;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.63;
@@ -195,8 +165,6 @@ footer {
     color: #FFFFFF;
 }
 .title {
-    font-family: 'Roboto';
-        font-style: normal;
         font-weight: 700;
         font-size: 18px;
         line-height: 1.88;
@@ -204,9 +172,6 @@ footer {
         color: #212121;
 }
 .title-p {
-    font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
         font-size: 16px;
         line-height: 1.88;
         letter-spacing: 0.03em;
